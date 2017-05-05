@@ -1,0 +1,15 @@
+{
+  "name": "learnyounode",
+  "version": "1.0.0",
+  "description": "process对象有一个`argv`属性，通过`process.argv`可获得命令行参数的一个数组",
+  "main": "babySteps.js",
+  "dependencies": {
+    "bl": "^1.2.1",
+    "through2-map": "^3.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
