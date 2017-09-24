@@ -1,2 +1,1 @@
-# nodeschool
-learn on nodeschool
+# learn Node Js
